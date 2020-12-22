@@ -1,8 +1,8 @@
 ## :black_joker: 블랙잭 게임 도메인 구현 :black_joker:
 
--  **step4 branch**
-  - 메인 소스코드 - [blackjack-mvc](https://github.com/bky373/kotlin-blackjack/tree/step4/src/main/kotlin/blackjack)
-  - 테스트 코드 - [blackjack-test](https://github.com/bky373/kotlin-blackjack/tree/step4/src/test/kotlin/blackjack/model)
+- **step4 branch**
+    - 메인 소스코드 - [blackjack-mvc](https://github.com/bky373/kotlin-blackjack/tree/step4/src/main/kotlin/blackjack)
+    - 테스트 코드 - [blackjack-test](https://github.com/bky373/kotlin-blackjack/tree/step4/src/test/kotlin/blackjack/model)
 
 ---
 

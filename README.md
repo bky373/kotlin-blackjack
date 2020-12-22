@@ -1,5 +1,11 @@
 ## :black_joker: 블랙잭 게임 도메인 구현 :black_joker:
+
+-  **step4 branch**
+  - 메인 소스코드 - [blackjack-mvc](https://github.com/bky373/kotlin-blackjack/tree/step4/src/main/kotlin/blackjack)
+  - 테스트 코드 - [blackjack-test](https://github.com/bky373/kotlin-blackjack/tree/step4/src/test/kotlin/blackjack/model)
+
 ---
+
 ### :pushpin: **블랙잭 기본 규칙** :hearts: :diamonds: :clubs: :spades:
 
 - 카드의 숫자 계산은 카드 숫자를 기본으로 하며, **예외로 Ace는 1 또는 11로 계산**할 수 있으며, **King, Queen, Jack은 각각 10으로 계산**한다
@@ -10,6 +16,7 @@
 - **BlackJack**은 처음 2장의 카드 점수 **합계가 21인 경우**를 말한다
 
 ---
+
 ### :pencil: 기능 구현 목록
 
 **1. 게임 생성**

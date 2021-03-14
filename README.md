@@ -3,10 +3,9 @@
 ### Contents
 
 > 1. [Intro](https://github.com/bky373/kotlin-blackjack#intro)
->
 > 2. [블랙잭 게임 코드](https://github.com/bky373/kotlin-blackjack#블랙잭-게임-코드)
 > 3. [다른 게임 코드](https://github.com/bky373/kotlin-blackjack#다른-게임-코드)
-> 4. [블랙잭 규칙](https://github.com/bky373/kotlin-blackjack#블랙잭-규칙)
+> 4. [블랙잭 기본 규칙](https://github.com/bky373/kotlin-blackjack#블랙잭-기본-규칙)
 > 5. [기능 구현 목록](https://github.com/bky373/kotlin-blackjack#기능-구현-목록)
 > 6. [느낀 점](https://github.com/bky373/kotlin-blackjack#느낀-점)
 > 7. [배운 점](https://github.com/bky373/kotlin-blackjack#배운-점)
@@ -30,7 +29,7 @@
 
 > [**자동차 경주**](https://github.com/bky373/kotlin-racingcar/tree/step5)<br>[**로또**](https://github.com/bky373/kotlin-lotto/tree/step4)<br>[**지뢰찾기**](https://github.com/bky373/kotlin-minesweeper/tree/step2)
 
-## :pushpin: **블랙잭 기본 규칙**
+## 블랙잭 기본 규칙
 
 - 카드의 숫자 계산은 카드 숫자를 기본으로 하며, 예외로 `Ace는 1 또는 11로 계산`할 수 있으며, `King, Queen, Jack은 각각 10으로 계산`한다.
 - 게임을 시작하면 참가자는 두 장의 카드를 지급 받으며,  두 장의 카드 숫자를 합쳐 `21을 초과하지 않으면서 21에 가깝게 만들면 이긴다`
@@ -39,7 +38,7 @@
 - `Bust`는 카드 점수 합계가 `21을 넘은 경우`를 말한다
 - `BlackJack`은 `처음 2장`의 카드 점수 `합계가 21인 경우`를 말한다
 
-## :pencil: 기능 구현 목록
+## 기능 구현 목록
 
 ### 1. 게임 생성
 
@@ -94,7 +93,7 @@
 - 딜러와 참가자들의 카드와 점수를 출력한다
 - 딜러와 참가자들의 최종 수익을 출력한다
 
-## ✍ 느낀 점
+## 느낀 점
 
 > 처음에는 과정이 재직자 대상이었고, 낯선 언어인 코틀린으로 진행되었기 때문에, <br>두 가지 조건에서 거리가 멀었던 저는 수강생들과의 격차가 걱정되었습니다.<br>하지만 현직자의 피드백을 꼭 듣고 싶었기 때문에 강의를 포기하는 대신 코틀린 선행학습을 시작했습니다. 
 >
@@ -104,7 +103,7 @@
 >
 > 처음에는 경험과 실력이 한참 부족하다는 생각에, 사실 많이 두려웠습니다.<br>하지만 과정을 꼭 수료해야겠다는 의지가 있었기 때문에, <br>어떤 자리(버스, 지하철)가 되었든, 어떤 시간이 되었든 코딩을 했습니다. <br>그리고 결국 모든 미션을 통과하였습니다.<br>다 사람이 하는 일이기 때문에 불가능한 일은 없다는 것, 이번을 계기로 몸소 배우고 느꼈습니다.<br>
 
-# 💡 배운 점
+## 배운 점
 
 > 배운 내용에 관해서는, <br>
 > 무엇보다 TDD, Clean Code, 그리고 OOP 내용이 많이 생각납니다.

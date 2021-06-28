@@ -12,15 +12,15 @@
 
 ## Intro
 
-**TDD**를 활용하여, **블랙잭 게임 도메인** 로직을 구현하였습니다.
+4주 동안 NextStep의 **Effective Kotlin 1기** 과정에 참여하여 <br> 4가지 게임의 **도메인** 로직을 구현하였습니다.<br>
 
-> NextStep의 **Effective Kotlin 1기** 과정에 한 달 간 참여하여 <br>`4가지 게임`의 **도메인** 로직을 구현하였습니다.<br>
+여기에서는 **TDD**를 활용하여, **블랙잭 게임 도메인** 로직을 구현하였습니다.
 
-> 진행 방식: `next-step의 Repository`에서 빈 파일들을 `Fork`하고, <br>수강생 각자의 로컬에서 로직을 구현한 후 `Pull Request` -> `Merge` 하는 방식으로 과정을 진행하였습니다. 
+> 진행 방식: `next-step`의 비어있는 `게임 Repository`를 `Fork`하고, <br>수강생 각자의 로컬에서 로직을 구현한 후 `Pull Request` -> `Review` -> `Merge` 하는 방식으로 과정을 진행하였습니다. 
 
 ## 블랙잭 게임 코드
 
-⚠️ 블랙잭 게임의 경우, `step4` 브랜치에서 완성된 코드를 볼 수 있습니다. 
+블랙잭 게임의 경우, **`step4` 브랜치**에서 완성된 코드를 볼 수 있습니다. 
 
 > - Main Source Code: [blackjack-mvc](https://github.com/bky373/kotlin-blackjack/tree/step4/src/main/kotlin/blackjack)
 > - Test Code (JUnit 5): [blackjack-test](https://github.com/bky373/kotlin-blackjack/tree/step4/src/test/kotlin/blackjack/model) 
